@@ -1,5 +1,8 @@
 # Projeto React com Vite, Tailwind CSS, Zod, React Hook Form e Validadores
 
+
+![Exemplo de Projeto](src/assets/image.png)
+
 Este é um projeto React básico que utiliza o Vite como bundler, o Tailwind CSS para estilização, o Zod para validação de esquemas de dados, o React Hook Form para gerenciamento de formulários e os validadores do React Hook Form para validação de formulários.
 
 ## Estrutura do Projeto
@@ -13,7 +16,7 @@ Este é um projeto React básico que utiliza o Vite como bundler, o Tailwind CSS
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Zod](https://github.com/colinhacks/zod)
 - [React Hook Form](https://react-hook-form.com/)
-- [hookform/resolvers] (https://github.com/react-hook-form/resolvers?tab=readme-ov-file)
+- [hookform/resolvers](https://github.com/react-hook-form/resolvers?tab=readme-ov-file)
 
 ## Como Executar o Projeto
 
